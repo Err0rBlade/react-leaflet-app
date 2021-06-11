@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/shawn-dsilva/mern-login-signup-component/issues"
   },
-  "homepage": "https://github.com/shawn-dsilva/mern-login-signup-component#readme",
+  "homepage": "",
   "dependencies": {
     "@hapi/joi": "^16.1.8",
     "bcryptjs": "^2.4.3",

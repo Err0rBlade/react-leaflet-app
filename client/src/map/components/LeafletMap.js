@@ -95,7 +95,7 @@ export default class LeafletMap extends Component {
           return (
             <Circle
               center={[clusters["lng"], clusters["lat"]]}
-              radius={400}
+              radius={420}
               color="#00000099"
             />
           );
