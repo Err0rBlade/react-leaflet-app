@@ -1,5 +1,5 @@
 {
-  "name": "mern-login-singup-component",
+  "name": "react-leaflet-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawn-dsilva/mern-login-signup-component.git"
+    "url": "git+https://github.com/Err0rBlade/react-leaflet-app-1"
   },
   "author": "Shawn D'silva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shawn-dsilva/mern-login-signup-component/issues"
+    "url": "https://github.com/Err0rBlade/react-leaflet-app-1/issues"
   },
   "homepage": "",
   "dependencies": {
