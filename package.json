@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Err0rBlade/react-leaflet-app-1"
+    "url": "git+https://github.com/Err0rBlade/react-leaflet-app"
   },
   "author": "Shawn D'silva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Err0rBlade/react-leaflet-app-1/issues"
+    "url": "https://github.com/Err0rBlade/react-leaflet-app/issues"
   },
   "homepage": "",
   "dependencies": {
